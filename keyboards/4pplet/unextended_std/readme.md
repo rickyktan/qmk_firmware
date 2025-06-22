@@ -9,6 +9,10 @@ Make example for this keyboard (after setting up your build environment):
 
     make 4pplet/unextended_std/rev_a:default
 
+VIA keymap example:
+
+    make 4pplet/unextended_std/rev_a:via
+
 Flashing example for this keyboard:
 
     make 4pplet/unextended_std/rev_a:default:flash
